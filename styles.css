@@ -1,0 +1,117 @@
+/*---------------------------------------------
+ * Bootstrap overrides
+ --------------------------------------------*/
+
+body {
+  color: #444;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Crimson Text', serif;
+  font-weight: normal;
+}
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.25rem;
+  text-transform: uppercase;
+}
+h3 {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+p,
+input {
+  font-family: 'Open Sans', sans-serif;
+}
+p {
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  border: 0 none;
+  border-radius: 0;
+  font-family: 'Crimson Text', serif;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  padding: 0.75rem 1.5rem;
+}
+
+.btn-primary {
+  background: #01b5a6;
+}
+  .btn-primary:hover {
+    background: #047a70;
+  }
+
+.btn-outline-primary {
+  background: none;
+  border: 1px solid #01b5a6;
+  color: #01b5a6;
+}
+  .btn-outline-primary:hover {
+    background: #01b5a6;
+    color: white;
+  }
+
+.navbar-light {
+  background: white;
+  padding: 1.5rem 0.5rem;
+}
+  .navbar-brand {
+    font-family: 'Crimson Text', serif;
+    text-transform: uppercase;
+  }
+
+.homepage-jumbotron {
+  background-color: #503f16;
+  background-image: url('https://cl.ly/i6JU/nom.jpg');
+  background-size: cover;
+  color: white;
+  padding: 8rem 0;
+  text-align: center;
+}
+  .homepage-jumbotron p {
+    color: #cfc7b3;
+  }
+
+.homepage-section:nth-child(even) {
+  background: #f2f2f2;
+}
+  .homepage-section {
+    padding: 5rem 0;
+  }
+    .homepage-section hr {
+      margin: 5rem 0;;
+    }
+    .homepage-section h2 {
+      border-bottom: 1px solid #edeade;
+      margin-bottom: 2rem;
+      padding-bottom: 1.25rem;
+      text-align: center;
+    }
+    .homepage-section img {
+      max-width: 100%;
+    }
+
+.page-footer {
+  background: #3c3932;
+  color: #736f66;
+  letter-spacing: 0.2rem;
+  font-size: 0.85rem;
+  font-family: 'Crimson Text', serif;
+  padding: 5rem;
+  text-transform: uppercase;
+}
