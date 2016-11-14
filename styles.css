@@ -54,6 +54,7 @@ p {
 }
   .btn-primary:hover {
     background: #047a70;
+    border-color: #047a70;
   }
 
 .btn-outline-primary {
@@ -63,6 +64,7 @@ p {
 }
   .btn-outline-primary:hover {
     background: #01b5a6;
+    border-color: white;
     color: white;
   }
 
@@ -72,6 +74,8 @@ p {
 }
   .navbar-brand {
     font-family: 'Crimson Text', serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
     text-transform: uppercase;
   }
 
