@@ -47,6 +47,9 @@ p {
   letter-spacing: 0.3rem;
   text-transform: uppercase;
   padding: 0.75rem 1.5rem;
+  transition: border-color 0.3s ease,
+              background-color 0.3s ease,
+              color 0.3s ease;
 }
 
 .btn-primary {
@@ -97,6 +100,9 @@ p {
   .homepage-section {
     padding: 5rem 0;
   }
+    .homepage-section.homepage-section-highlight {
+      background: #fff5d6;
+    }
     .homepage-section hr {
       margin: 5rem 0;;
     }
