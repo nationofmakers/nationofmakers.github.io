@@ -95,25 +95,25 @@ p {
     color: #cfc7b3;
   }
 
-.homepage-section:nth-child(even) {
+.page-section:nth-child(even) {
   background: #f2f2f2;
 }
-  .homepage-section {
+  .page-section {
     padding: 5rem 0;
   }
-    .homepage-section.homepage-section-highlight {
+    .page-section.page-section-highlight {
       background: #fff5d6;
     }
-    .homepage-section hr {
+    .page-section hr {
       margin: 5rem 0;;
     }
-    .homepage-section h2 {
+    .page-section h2 {
       border-bottom: 1px solid #edeade;
       margin-bottom: 2rem;
       padding-bottom: 1.25rem;
       text-align: center;
     }
-    .homepage-section img {
+    .page-section img {
       max-width: 100%;
     }
 
