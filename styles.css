@@ -84,8 +84,7 @@ p {
   }
 
 .homepage-jumbotron {
-  background-color: #503f16;
-  background-image: url('https://cl.ly/i6JU/nom.jpg');
+  background: #503f16 url('http://www.themakereffect.org/wp-content/uploads/2014/05/nom_header_v3.jpg') center center no-repeat;
   background-size: cover;
   color: white;
   padding: 8rem 0;
