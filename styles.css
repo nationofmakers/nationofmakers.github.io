@@ -56,7 +56,7 @@ p {
   border-color: #01b5a6;
 }
   .btn-primary:hover {
-    background: #ccfffa;
+    background: white;
     border-color: #047a70;
     color: #047a70;
   }
