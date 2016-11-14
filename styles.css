@@ -41,7 +41,6 @@ p {
 }
 
 .btn {
-  border: 0 none;
   border-radius: 0;
   font-family: 'Crimson Text', serif;
   letter-spacing: 0.3rem;
@@ -54,10 +53,12 @@ p {
 
 .btn-primary {
   background: #01b5a6;
+  border-color: #01b5a6;
 }
   .btn-primary:hover {
-    background: #047a70;
+    background: #ccfffa;
     border-color: #047a70;
+    color: #047a70;
   }
 
 .btn-outline-primary {
