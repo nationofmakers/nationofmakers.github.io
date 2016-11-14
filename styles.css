@@ -126,3 +126,6 @@ p {
   padding: 5rem;
   text-transform: uppercase;
 }
+  .page-footer a {
+    color: #c1beb6;
+  }
