@@ -1,8 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+#
+# This file is in Markdown format, and gets automatically converted to
+# HTML by the servers at github.  For more about Markdown, see
+# https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+# 
+layout: default 
 ---
 
 # Introduction
