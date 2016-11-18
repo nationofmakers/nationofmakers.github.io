@@ -1,21 +1,22 @@
 # Nation of Makers Website
 
+
 ## Purpose
 
-A website which communicates the mission, vision, and values of the
-Nation of Makers.
+A website which communicates the mission, vision, and values of the Nation of Makers.
 
-We need your help!  We are in "build mode" right now, targeting a Nov
-15th deadline.  Pick whichever of the following two contribution
-methods fits your style.
 
-If you need any help with any of this, please jump into the
-&#35;nom_website channel in the NoM slack; we're here to help.
+## Contributing
 
-*A side note to git pros:  We're working on the master branch during
-build mode to simplify the process for contributors.  After the site
-is live we'll introduce dev branches as in [Github
-Flow](https://guides.github.com/introduction/flow/)*
+**NOTE: Currently, the website is in a temporary content freeze as we form the official organization. Contributions are still welcome but major content/copy changes may not get approved until the transition occurs. Thanks for understanding! 🤓**
+
+Pick whichever of the following two contribution methods fits your style.
+
+If you need any help with any of this, please jump into the &#35;nom_website channel in the NOM slack; we're here to help.
+
+*A side note to git pros: We're working on the master branch during
+build mode to simplify the process for contributors.
+
 
 ## Contributing via CLI
 
@@ -28,6 +29,7 @@ Flow](https://guides.github.com/introduction/flow/)*
    If you do want to learn how to use git and github via the CLI, then
    go to [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
    -- github folks write good docs.
+
 
 ## Contributing via the web 
 
@@ -62,7 +64,7 @@ You can also start a new file by opening an existing folder and clicking "Create
      {=_=-}{=-=_}
      {=_==}{-=_=}
      }~~~~""~~~~{
-jgs  }____::____{
+     }____::____{
     /`    ||    `\
     |     ||     |
     |     ||     |
