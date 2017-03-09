@@ -47,6 +47,10 @@ p {
   margin-bottom: 1.5rem;
 }
 
+li {
+  padding-top: 10px;
+}
+
 .btn {
   border-radius: 0;
   font-family: 'Crimson Text', serif;
