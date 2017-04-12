@@ -37,37 +37,11 @@ build mode to simplify the process for contributors.
 You can also start a new file by opening an existing folder and clicking "Create new file" or "Upload files".
 <p>
 <img width="541" alt="nationofmakers_github_io_readme_md_at_master_ _nationofmakers_nationofmakers_github_io" src="https://cloud.githubusercontent.com/assets/305332/20005279/bdce5630-a267-11e6-9f96-3d7c2fbd5c22.png">
+
 2. Make changes, scroll down to the bottom to describe your changes (less than 80 characters in the title, and a more detailed description if required past 80 chars), then click "Propose file change".  
+
 3. Click the green "Create Pull Request" button.
+
 4. A volunteer on the team will validate/merge your PR.  If you don't
    see any activity within a few hours, then feel free to get
    someone's attention in &#35;nom_website.
-
-## Thank you!!!  Here's a bonus robot...
-
-```
-     ,.-""``""-.,
-    /  ,:,;;,;,  \
-    \  ';';;';'  /
-     `'---;;---'`
-     <>_==""==_<>
-     _<<<<<>>>>>_
-   .'____\==/____'.
-   |__   |__|   __|
-  /C  \  |..|  /  D\
-  \_C_/  |;;|  \_c_/
-   |____o|##|o____|
-    \ ___|~~|___ /
-     '>--------<'
-     {==_==_==_=}
-     {= -=_=-_==}
-     {=_=-}{=-=_}
-     {=_==}{-=_=}
-     }~~~~""~~~~{
-     }____::____{
-    /`    ||    `\
-    |     ||     |
-    |     ||     |
-    |     ||     |
-    '-----''-----'
-```
