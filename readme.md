@@ -8,7 +8,7 @@ A website which communicates the mission, vision, and values of the Nation of Ma
 
 ## Contributing
 
-**NOTE: Currently, the website is in a temporary content freeze as we form the official organization. Contributions are still welcome but major content/copy changes may not get approved until the transition occurs. Thanks for understanding! 🤓**
+**NOTE: The web team hangs out in #nom_website at https://nation-of-makers.slack.com/ -- please come join us!**
 
 Pick whichever of the following two contribution methods fits your style.
 
