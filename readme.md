@@ -10,7 +10,7 @@ A website which communicates the mission, vision, and values of the Nation of Ma
 
 **NOTE: The web team hangs out in #nom_website at https://nation-of-makers.slack.com/ -- please come join us!**
 
-Pick whichever of the following two contribution methods fits your style.
+Pick whichever of the following two contribution methods fits your style.  **Whichever method you pick, try to minimize your changes per PR, to make review quicker.  Also try to avoid changing nonfunctional whitespace; ensure your editor is set to not convert spaces to tabs and vice versa, and try not to wrap/unwrap lines.**  A simple PR that visually checks out by eyeballing the HTML diff can be accepted quickly.
 
 If you need any help with any of this, please jump into the &#35;nom_website channel in the NOM slack; we're here to help.
 
