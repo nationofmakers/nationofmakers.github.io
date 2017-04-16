@@ -8,14 +8,12 @@ A website which communicates the mission, vision, and values of the Nation of Ma
 
 ## Contributing
 
-**NOTE: The web team hangs out in #nom_website at https://nation-of-makers.slack.com/ -- please come join us!**
-
 Pick whichever of the following two contribution methods fits your style.  **Whichever method you pick, try to minimize your changes per PR, to make review quicker.  Also try to avoid changing nonfunctional whitespace; ensure your editor is set to not convert spaces to tabs and vice versa, and try not to wrap/unwrap lines.**  A simple PR that visually checks out by eyeballing the HTML diff can be accepted quickly.
 
-If you need any help with any of this, please jump into the &#35;nom_website channel in the NOM slack; we're here to help.
+A note to git pros: We're working on the master branch during build mode to simplify the process for contributors.  But if you're creating a PR and know how to do so using a dev branch, one branch per PR, please do so.  It will speed up acceptance of your PR tremendously.
 
-*A side note to git pros: We're working on the master branch during
-build mode to simplify the process for contributors.
+**The web team hangs out in #nom_website at https://nation-of-makers.slack.com/ -- please come join us!**
+
 
 
 ## Contributing via CLI
