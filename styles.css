@@ -84,13 +84,20 @@ p {
 
 .navbar-light {
   background: white;
-  padding: 1.5rem 0.5rem;
+  padding: 1.5rem 1.5rem;
 }
   .navbar-brand {
     font-family: 'Crimson Text', serif;
     font-size: 1.8rem;
     line-height: 1.5;
     text-transform: uppercase;
+  }
+
+  #navbarNav {
+    padding: .425rem 0;
+  }
+  #navbarNav li {
+    display: block;
   }
 
 .homepage-jumbotron {
