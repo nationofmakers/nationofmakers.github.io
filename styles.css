@@ -23,7 +23,7 @@ h2 {
   font-size: 2.25rem;
   text-transform: uppercase;
 }
-h3 {
+.card h3 {
   color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.8rem;
@@ -127,6 +127,9 @@ p {
       border-bottom: 1px solid #edeade;
       margin-bottom: 2rem;
       padding-bottom: 1.25rem;
+      text-align: center;
+    }
+    #executive-director-bio h3 {
       text-align: center;
     }
     .page-section img {
