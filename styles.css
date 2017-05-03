@@ -167,4 +167,14 @@ p {
 }
   .page-footer a {
     color: #c1beb6;
+    cursor: pointer;
+  }
+  #sponsors {
+    width: 350px;
+    padding: 0;
+  }
+  #sponsors .rounded {
+    background-color: white;
+    height: 150px;
+    width: 150px;
   }
