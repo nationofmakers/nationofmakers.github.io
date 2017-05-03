@@ -34,6 +34,17 @@ h3 {
   margin: 1rem 0;
   text-align: left;
 }
+#get-involved h3 {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 1rem 0;
+  text-align: center;
+}
+#get-involved .col-lg-6 {
+  padding: 1rem;
+}
 
 a {
   color: #01b5a6;
